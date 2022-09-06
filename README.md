@@ -28,7 +28,10 @@
 - A bar graph with various colors and and information was created
 
 
-## No collaboration policy
+## Sources
+- https://www.kaggle.com/code/dansbecker/xgboost/notebook
+- https://www.kaggle.com/code/ankitkuls/xgboost-with-one-hot-encoding/notebook
+
 
 **You may not collaborate with anyone on this challenge.** You _are_ allowed (and encouraged) to use internet documentation. If you use existing code (either from Github, Stack Overflow, or other sources), **please cite your sources in the README**.
 
