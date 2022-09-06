@@ -17,7 +17,7 @@
 - Define the model with XGBRegressor
 - Fitted the model
 - Got the model's predictions 
-- Calculated the Mean Absolute Error and got 3335.7002
+- Calculated the Mean Absolute Error and got 3335.7001911458333
 ## Build A Bar Graph Based On The Each Car's Make and Price
 - Data was read into the program
 - Constructed the dimensions of the bar graph
