@@ -3,7 +3,7 @@
 - Trained a machine learning model to predict some aspect of a car based on other information from its listing.
 - Made a graph to visualize car make's and their prices
 
-## Trained a machine learning model to predict the prices of cars
+## Trained A Machine Learning Model To Predict The Prices of cars
 
 
 
