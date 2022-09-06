@@ -13,12 +13,19 @@
 - One hot encoded the train predictors
 - Removed rows with missing target data and separated the target from predictors
 - Broke off validation set from training data
-- Selected categorial columns with low cardinality and kept the selcted coloumns.
+- Selected categorial columns with low cardinality and kept the selcted coloumns
 - Define the model with XGBRegressor
 - Fitted the model
 - Got the model's predictions 
 - Calculated the Mean Absolute Error and got 3335.7002
-
+## Build A Bar Graph Based On The Each Car's Make and Price
+- Data was read into the program
+- Constructed the dimensions of the bar graph
+- Selected ten random car make's and price's
+- Selected random colors to add to each bar 
+- Created the x and y-axis and labeled them as Make and Prices
+- Set the font size to 12
+- A bar graph with various colors and and information was created
 
 
 ## No collaboration policy
