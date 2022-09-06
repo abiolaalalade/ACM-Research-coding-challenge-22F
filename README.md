@@ -26,10 +26,8 @@
 - Created the x and y-axis and labeled them as Make and Prices
 - Set the font size to 12
 - A bar graph with various colors and and information was created
-- 
 
-[![alt text](http://url/to/Bar Graph(Make Vs. Price).png)
-](https://github.com/abiolaalalade/ACM-Research-coding-challenge-22F/blob/main/Bar%20Graph(Make%20Vs.%20Price).png)
+[![Bar-Graph-Make-Vs-Price.png](https://i.postimg.cc/B69fT7Z6/Bar-Graph-Make-Vs-Price.png)](https://postimg.cc/nskWZkDb)
 
 ## Sources
 - https://www.kaggle.com/code/dansbecker/xgboost/notebook
