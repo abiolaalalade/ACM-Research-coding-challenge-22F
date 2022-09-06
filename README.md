@@ -1,9 +1,10 @@
 # ACM Research coding challenge (Fall 2022)
 
-- Train a machine learning model to predict some aspect of a car based on other information from its listing.
+- Trained a machine learning model to predict some aspect of a car based on other information from its listing.
 - Made a graph to visualize car make's and their prices
 
-## How to submit your solution
+## Trained a machine learning model to predict the prices of cars
+
 
 
 ## No collaboration policy
