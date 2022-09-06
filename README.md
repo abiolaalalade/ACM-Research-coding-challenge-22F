@@ -25,7 +25,6 @@
 - Selected random colors to add to each bar 
 - Created the x and y-axis and labeled them as Make and Prices
 - Set the font size to 12
-- A bar graph with various colors and and information was created
 
 [![Bar-Graph-Make-Vs-Price.png](https://i.postimg.cc/B69fT7Z6/Bar-Graph-Make-Vs-Price.png)](https://postimg.cc/nskWZkDb)
 
