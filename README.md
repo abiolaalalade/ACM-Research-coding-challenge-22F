@@ -1,9 +1,9 @@
-# ACM Research coding challenge (Fall 2022)
+# ACM Research coding challenge (Fall 2022) - Abiola Alalade
 
-- Trained a machine learning model to predict some aspect of a car based on other information from its listing.
-- Made a graph to visualize car make's and their prices
+- Trained A Machine Learning Model To Predict The Prices of Cars
+- Build A Bar Graph Based On The Each Car's Make and Price
 
-## Trained A Machine Learning Model To Predict The Prices of cars
+## Trained A Machine Learning Model To Predict The Prices of Cars
 - Data was read into the program
 - Unnecessary characters like "$" and "," were removed from the Price coloumn and converted to float to help the model predict car prices
 - Dropped coloumns with missing data
