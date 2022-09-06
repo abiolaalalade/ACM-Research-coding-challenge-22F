@@ -26,6 +26,9 @@
 - Created the x and y-axis and labeled them as Make and Prices
 - Set the font size to 12
 - A bar graph with various colors and and information was created
+- 
+
+![alt text](http://url/to/Bar Graph(Make Vs. Price).png)
 
 
 ## Sources
